@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586901821142",
+    "project_id": "alsaqar-566d3",
+    "storage_bucket": "alsaqar-566d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586901821142:android:6ed5f6d4293dac3a745b77",
+        "android_client_info": {
+          "package_name": "com.example.alsagr_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_CcdI0d7tHIp47n0IIBIvwscwIKY3Ciw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
